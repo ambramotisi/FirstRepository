@@ -1,0 +1,12 @@
+<!<DOCTYPE html>
+ <html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <title>JS 01</title>
+   </head>
+   <body>
+      <h1>Titolo</h1>
+      <p id ="demo">paragrafo</p>
+        <script src="index.js"></script>
+   <body>
+ </html>
