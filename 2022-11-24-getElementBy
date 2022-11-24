@@ -1,0 +1,9 @@
+let element = document.getElementById("demo").innerHTML = "stringa";
+console.log(element)
+console.log(element.id)
+
+let x = document.getElementsByTagName("p") //retutiusce tutti gli elementi con tag p
+console.log(x) //restituisce tag p in una COLLEZIONE
+console.log(x[0]) //stampare un singolo elemento
+console.log(x[0].id) //stampa id  del paragrafo 0
+console.log(x[0].getAttribute("name")) //leggo con una funzione (self explaining) .geAttribute, che legge l'attributo name
