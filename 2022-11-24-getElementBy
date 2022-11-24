@@ -7,3 +7,4 @@ console.log(x) //restituisce tag p in una COLLEZIONE
 console.log(x[0]) //stampare un singolo elemento
 console.log(x[0].id) //stampa id  del paragrafo 0
 console.log(x[0].getAttribute("name")) //leggo con una funzione (self explaining) .geAttribute, che legge l'attributo name
+x[0].setAttribute("name", "second_name") //settare il nome di un paragrafo 
