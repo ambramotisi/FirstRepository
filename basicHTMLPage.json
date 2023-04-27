@@ -2,10 +2,12 @@
     "div":{
         "id":"myFirstDiv",
         "innerHTML" : "myFirstDiv",
+    }
     
   "div":{
         "id":"mySecondDiv",
         "innerHTML" : "mySecondDiv"
     }
-  }
+        
+
 }
