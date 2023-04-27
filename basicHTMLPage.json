@@ -1,7 +1,7 @@
 { 
     "div1":{
         "id":"myFirstDiv",
-        "innerHTML" : "myFirstDiv"
+        "innerHTML" : "myFirstDiv",
     
   "div2":{
         "id":"mySecondDiv",
